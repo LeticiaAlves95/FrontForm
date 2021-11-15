@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  border-radius: 5px;
+  background-color: rgb(158, 191, 209);
+  padding: 20px;
+  max-width: 600px;
+}
